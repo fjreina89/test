@@ -1,0 +1,35 @@
+Taller de creación de grupos (29/09/14) - Grupo de Deliberaciones - 14/15
+Asistentes
+
+Rafael Rodriguez Osorio.
+Julio Pineda Páez.
+Fco. Javier Reina Ponce.
+Salvador Herrera López.
+Edwin P. Arévalo Angulo.
+Daniel Toledo Villalba.
+Antonio León Carrillo.
+Raquel Cerrato Algaba.
+José María Caballero Alba.
+
+Resultado
+
+Formar un grupo de trabajo compuesto por 9 miembros.
+   -Rafael Rodriguez Osorio.
+   -Julio Pineda Páez.
+   -Fco. Javier Reina Ponce.
+   -Salvador Herrera López.
+   -Edwin P. Arévalo Angulo.
+   -Daniel Toledo Villalba.
+   -Antonio León Carrillo.
+   -Raquel Cerrato Algaba.
+   -José María Caballero Alba.
+Elegir que subsistema vamos a realizar: Sistema de deliberaciones.
+Elegir con que tecnología vamos a desarrollar el susbsitema. JAVA 1.7..
+Definir una primera arquitectura del sistema a realizar.
+Formas de comunicación:
+  - Grupo de WhatsApp de todos los miembros.
+  - Dropbox
+  - Además de realizar reuniones en las horas de clases destinadas a ello,además de realizar reuniones
+  los jueves que sean necesarios a las 19:30 hasta que la reunión del grupo finalice en las salas de 
+  trabaajo en grupo del CRAI Antonio Ulloa.
+Elaboración de la plantilla a emplear para realizar las actas de reuniones.
