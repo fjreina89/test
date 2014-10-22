@@ -1,0 +1,36 @@
+Taller de arquitectura de la aplicación (01/10/14) - Grupo de Deliberaciones - 14/15
+Contenido  
+1 Asistentes
+2 Resultado
+2.1 Propuesta de comunicación
+2.2 Trabajo realizado
+2.3 Trabajo por realizar
+Asistentes
+
+Rafael Rodriguez Osorio.
+Julio Pineda Páez.
+Fco. Javier Reina Ponce.
+Salvador Herrera López.
+Edwin P. Arévalo Angulo.
+Daniel Toledo Villalba.
+Antonio León Carrillo.
+Raquel Cerrato Algaba.
+José María Caballero Alba.
+
+Resultado
+
+Propuesta de comunicación
+
+Con el grupo: Realización de una reunión semanal, además de comunicarnos mediante e-mail y un grupo de whatsapp en el que estamos todos los miembros del grupo.
+Con el resto de subsistemas: A través de la wiki, e-mail y también la creacción de un grupo de whatsapp formado por los portavoces de cada subsistema.
+
+Trabajo realizado
+
+Definir el lenguaje y la tecnología a utilizar.
+Definir una primera arquitectura.
+Definir la plantilla para las actas de reuniones.
+Elegir que día realizar las reuniones del grupo y como vamos a comunicarnos entre los miembros.
+
+Trabajo por realizar
+
+Definir la funcionalidad de nuestro subsistema.
