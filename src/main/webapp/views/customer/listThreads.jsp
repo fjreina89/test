@@ -17,18 +17,24 @@
 <%@taglib prefix="display" uri="http://displaytag.sf.net"%>
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
-
+<spring:message code="customer.deliberations.title" var="title"></spring:message>
+<spring:message code="customer.deliberations.author" var="author"/>
+<spring:message code="customer.deliberations.date" var="date"/>
 <display:table name="threads" id="row"
 
 requestURI="customer/listThreads.do"
 pagesize="5" class="displaytag" >
 
-<%--
-<display:column property="name" />
-<display:column property="price"/>
-<display:column property="unitsAvaliable"/>
-<display:column title="Details"> <a href="customer/itemDetails.do?id=${row.id}">Details</a></display:column>
-<display:column title="Edit"> <a href="customer/editItem.do?id=${row.id }">Edit</a></display:column>
- --%>
+
+<display:column title="${title}">
+
+<a href="customer/seeThread.do?id=${row.id }"><jstl:out value="${row.title }"></jstl:out></a>
+</display:column>
+<display:column title="${author }">
+<jstl:out value="${row.user.name }"></jstl:out>
+</display:column>
+<display:column title="${date }"><jstl:out value="${row.creationMoment }"></jstl:out></display:column>
+
+ 
 
 </display:table>

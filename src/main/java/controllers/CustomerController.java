@@ -24,6 +24,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
+import domain.Hilo;
 import domain.User;
 import services.ThreadService;
 import services.UserService;
@@ -80,6 +81,22 @@ public class CustomerController extends AbstractController {
 		result=new ModelAndView("customer/listThreads");
 		result.addObject("threads",threads);
 		return result;
+		
+		
+	}
+	
+	
+	@RequestMapping("/seeThread")
+	public ModelAndView seeThread(@RequestParam int id){
+		
+		
+	Hilo hilo=threadService.findOne(id);
+	ModelAndView result =new ModelAndView("customer/seeThread");
+	result.addObject("hilo",hilo);
+	result.addObject("comments",hilo.getComments());
+	
+	return result;
+		
 		
 		
 	}
