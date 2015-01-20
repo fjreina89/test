@@ -1,0 +1,9 @@
+diff --git a/prueba b/prueba
+index 49de22a..8b9021b 100644
+--- a/prueba
++++ b/prueba
+@@ -3,3 +3,4 @@ hola
+ exportando cambios
+ exportando cambios 2
+ 
++frase para aplicar patch
